@@ -1,0 +1,21 @@
+Age,Action,Comedy,Genre
+18,1,0,Action
+20,1,1,Action Comedy
+22,1,0,Action
+24,1,1,Action Comedy
+26,0,1,Comedy
+28,0,1,Comedy
+30,0,0,Drama
+32,0,0,Drama
+35,1,0,Action
+38,0,1,Comedy
+40,0,0,Drama
+21,1,1,Action Comedy
+23,1,0,Action
+27,0,1,Comedy
+45,0,0,Drama
+50,1,0,Action
+19,1,1,Action Comedy
+29,0,1,Comedy
+34,0,0,Drama
+25,1,0,Action
